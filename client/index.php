@@ -25,6 +25,7 @@
             height:200px;
 
         }
+        
         .price
         {
             color:tomato;
